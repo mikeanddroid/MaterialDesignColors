@@ -3,16 +3,16 @@
 A simple repository holding material design common colors defined in the colors format for android resource use.
 
 
-# Please rename the color attributes to your needs
+# Please rename the color attributes to your needs.
 
-<color name="colorPrimary">#3F51B5</color>
+    <!--Material Colors-->
+
+    <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
 
-    <!-- Material Colors -->
     <!--Red-->
     <color name="red1">#F44336</color>
     <color name="red2">#FFEBEE</color>
@@ -310,3 +310,5 @@ A simple repository holding material design common colors defined in the colors 
     <color name="blue_grey_9">#455A64</color>
     <color name="blue_grey_10">#37474F</color>
     <color name="blue_grey_11">#263238</color>
+
+    --!>
